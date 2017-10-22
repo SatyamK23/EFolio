@@ -6,7 +6,7 @@ Thanks for considering contribution to Event-Folio. If you are have any issue re
 The main ways you can contribute to the repository are the following:
 
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a build.
-2. Increase the version numbers README.me to the new version that Pull Request would represent.
+2. Find bugs in application
 3. Add test cases that are missing.
 
 ### Coding Standard
